@@ -1,0 +1,14 @@
+<div class="searchcontainer">
+<form id="searchform" action="/" method="POST">
+
+  Search logs for:   
+  <input name="expression" type="text" class="searchfield"/>
+  <input type="submit" value="Search" class="searchbutton"/>
+  <input type="button" value="Reset Form" onClick="this.form.reset()" />
+  
+	{% if error %}
+    	<p class="errormsg"><strong>Error:</strong> {{ error }}
+	{% endif %}
+
+</form>
+</div>

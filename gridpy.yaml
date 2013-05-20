@@ -1,0 +1,4 @@
+version: 0.1
+
+# Grid type, one of: sge, lsf
+gridtype: sge
