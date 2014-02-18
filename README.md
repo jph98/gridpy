@@ -18,7 +18,7 @@ for Grid.py to parse output.
 Future Plans
 ------------
 
-Supprt for 
+Support for: 
 * IBM LSF (Load Sharing Facility) - http://www-03.ibm.com/systems/technicalcomputing/platformcomputing/products/lsf/index.html
 * Torque Resource Manager - http://www.adaptivecomputing.com/products/open-source/torque/
 * Condor - http://research.cs.wisc.edu/condor/
